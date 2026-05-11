@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi 👋 I'm Noah
 
-<!--
-**noaanexus-intelligence/noaanexus-intelligence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 🚀 Beginner Developer & AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning programming, GitHub, AI tools, and web development step by step.
+
+</div>
+
+---
+
+## 🧠 About Me
+
+- 🌱 Currently learning:
+  - Git & GitHub
+  - HTML / CSS / JavaScript
+  - AI & Automation
+  - Web Development
+
+- 🎯 Goals:
+  - Build real-world projects
+  - Create a strong developer portfolio
+  - Learn full-stack development
+  - Improve every day
+
+---
+
+## ⚒️ Tech Stack
+
+```txt
+HTML • CSS • JavaScript • Git • GitHub
+```
+
+---
+
+## 📌 Current Focus
+
+- Building mini projects
+- Improving coding skills
+- Learning modern web technologies
+- Growing my GitHub portfolio
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/noaanexus-intelligence
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</div>
